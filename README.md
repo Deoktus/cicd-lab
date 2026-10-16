@@ -18,4 +18,4 @@ Docker·Kubernetes·클라우드 보안 과목에서 쓴 **todo 앱**(api · web
 
 ## 실습한 사람
 
-- 실습: 덕
+- 실습: 덕- 질문: Discord
