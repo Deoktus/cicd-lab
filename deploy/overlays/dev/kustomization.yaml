@@ -10,5 +10,5 @@ images:
   newName: ghcr.io/deoktus/cicd-lab/api
   newTag: jenkins-9
 - name: todo-web
-  newName: ghcr.io/Deoktus/cicd-lab/web
+  newName: ghcr.io/deoktus/cicd-lab/web
   newTag: main
